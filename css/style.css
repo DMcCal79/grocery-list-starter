@@ -1,0 +1,31 @@
+body {
+  font-family: 'Oswald', sans-serif;
+  color: white;
+  background-image:linear-gradient(
+      rgba(0, 0, 0, 0.8),
+      rgba(0, 0, 0, 0.8)
+    ), url("./img/GroceryAisle.jpg");
+
+  background-position:center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+h1 {
+  font-family: 'Lobster', cursive;
+  font-size: 55px;
+}
+
+.shopping {
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+  margin-top: 10%;
+}
+
+.howMany {
+  width: 50px;
+}
+
+li {
+  list-style-type: none;
+}
